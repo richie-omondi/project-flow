@@ -8,12 +8,12 @@ This is the first verison of the tool and I encourage any and all contributions 
 
 Flow is a comprehensive project tracking application designed with a modern, professional interface. It offers a full suite of features to help teams and individuals manage projects efficiently from start to finish.
 
-# Technologies Used
+## Technologies Used
 
 The web app was built using Lovable + Supabase
 
 
-# Prompt Engineering
+## Prompt Engineering
 
 **This is the prompt I used to build the app on Lovable:**
 
