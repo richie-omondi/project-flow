@@ -15,7 +15,7 @@ The web app was built using Lovable + Supabase
 
 # Prompt Engineering
 
-These is the prompt I used to build the app on Lovable:
+**This is the prompt I used to build the app on Lovable:**
 
 Build a tool/web app to track projects, including work and study commitments, with features for adding and editing notes, file uploads, progress updates, and notifications.
 Features
@@ -99,10 +99,6 @@ Provide user support and documentation for app usage.
 
 - **Pitch Deck:** [View the Flow Pitch Deck](https://gamma.app/docs/Flow-Your-Ultimate-Project-Tracking-Companion-2q6lwnyg2w5k478)
 - **Live Deployment:** [Try Flow Online](https://project-taskflow.lovable.app/) 
-
----
-
-Flow streamlines your workflow, making project management simple, efficient, and visually engaging.
 
 ## Contributing
 
