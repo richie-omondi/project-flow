@@ -10,7 +10,7 @@ Flow is a comprehensive project tracking application designed with a modern, pro
 
 ## Technologies Used
 
-The web app was built using Lovable + Supabase
+The web app was built using Lovable, Supabase, and Kilo Code as the AI Coding Editor
 
 
 ## Prompt Engineering
