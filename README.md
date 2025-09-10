@@ -4,6 +4,8 @@ As a result, I decided to come up with an intuitive tool that I believe could he
 
 This is the first verison of the tool and I encourage any and all contributions that can make the tool more valuable and effective for students and professionals.
 
+This project is also an attempt at solving for SDG 3 and 4: Good Health and Well-being and Quality Education respectively. The tool is an attempt at improving my overall mental and emotional health by improving my ability to meet my work and education goals and targets. This boosts my confidence and self-worth as a student and professional.
+
 # Flow
 
 Flow is a comprehensive project tracking application designed with a modern, professional interface. It offers a full suite of features to help teams and individuals manage projects efficiently from start to finish.
@@ -91,14 +93,18 @@ Provide user support and documentation for app usage.
 - **Complete Project Management:** Create, update, and track projects from inception to completion with visual progress indicators.
 - **Note-Taking:** Integrated note system for project documentation and collaboration.
 - **File Upload Support:** Attach and manage files within your projects.
-- **Notification System Framework:** Stay informed with a flexible notification system.
 - **Beautiful Dashboard:** Visualize project statistics, monitor recent activity, and keep track of upcoming deadlines.
 - **Intuitive UI:** Modern, user-friendly design for seamless project management.
+
+## Future Features
+
+- **Notification System Framework:** Stay informed with a flexible notification system
 
 ## Demo & Resources
 
 - **Pitch Deck:** [View the Flow Pitch Deck](https://gamma.app/docs/Flow-Your-Ultimate-Project-Tracking-Companion-2q6lwnyg2w5k478)
-- **Live Deployment:** [Try Flow Online](https://project-taskflow-theta.vercel.app/) 
+- **Live Deployment:** [Try Flow Online](https://project-taskflow-theta.vercel.app/)
+- **Demo Link:** [Demo Video](https://www.loom.com/share/39354c8d4d7b4fdf945482f86f23af9d?sid=eb2275d9-efb9-43ba-9ed4-d6ff04e456cf)
 
 ## Contributing
 
