@@ -105,6 +105,7 @@ Provide user support and documentation for app usage.
 - **Pitch Deck:** [View the Flow Pitch Deck](https://gamma.app/docs/Flow-Your-Ultimate-Project-Tracking-Companion-2q6lwnyg2w5k478)
 - **Live Deployment:** [Try Flow Online](https://project-taskflow-theta.vercel.app/)
 - **Demo Link:** [Demo Video](https://www.loom.com/share/39354c8d4d7b4fdf945482f86f23af9d?sid=eb2275d9-efb9-43ba-9ed4-d6ff04e456cf)
+- **Github code from Lovable:** [Github code from Lovable](https://github.com/richie-omondi/project-taskflow)
 
 ## Contributing
 
